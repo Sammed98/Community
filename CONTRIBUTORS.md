@@ -6,7 +6,7 @@ A mention to all people who have helped build this organisation, by contributing
 * [Naman Jain](https://github.com/namanjn98)
 * [Atishay Jain]()
 * [Shreyas Singh](https://github.com/semiDcolon)
-* [Sammed Khagi](https://github.com/Sammed98)
+* [Sammed S Kagi](https://github.com/Sammed98)
 * [Heer Ambavi](https://github.com/HeerAmbavi)
 * [Varun Gohil](https://github.com/Varun1299)
 * [Apoorv Agnihotri](https://github.com/k0pch4)
